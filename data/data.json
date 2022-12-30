@@ -1,0 +1,11 @@
+{
+  "liveApp": {
+    "email": "admin@test.com",
+    "password": "test"
+  },
+  "builder": {
+    "user": "",
+    "email": "",
+    "password": ""
+  }
+}
