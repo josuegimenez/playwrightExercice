@@ -30,7 +30,7 @@ To install the project, follow these steps:
 ## Instructions
 
 Before run the tests:
- - Go to the `data.json` file update the data.json file with you
+ - Go to the `data.json` file
  - Modify the user and password fields with your test username, email and his password  
 
 Test the individual test file by running `npx playwright test filename.spec.ts` or all tests using the `npx playwright test` command.
